@@ -14,7 +14,10 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: new SnackDialogScreen(),
+      home: new SnackDialogScreen(),  //dialog screen
+//      home: new HelloScreen(),      // basic screen
+//      home: new MaterialScreen(),   //material screen
+
     );
   }
 }
