@@ -1,6 +1,6 @@
-# flutter_app
+# simple_material_app
 
-A new Flutter application.
+A Simple material design flutter
 
 ## Getting Started
 
