@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class MaterialScreen extends StatefulWidget {
+  static String tag = 'material-page';
   @override
   _MaterialScreenState createState() => _MaterialScreenState();
 }
